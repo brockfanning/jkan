@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 0770cf576707a6650e71
+gatekeeper_host: https://jkan-gatekeeper-sdg.herokuapp.com
 
 # Dataset schema
 schema: default
